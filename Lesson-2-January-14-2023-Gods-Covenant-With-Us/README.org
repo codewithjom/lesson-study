@@ -1,0 +1,5 @@
+#+title: Memory Text
+
+#+begin_quote
+  “Now it shall come to pass, if you diligently obey the voice of the Lord your God, to observe carefully all His commandments which I command you today, that the Lord your God will set you high above all nations of the earth. And all these blessings shall come upon you and overtake you, because you obey the voice of the Lord your God.” - Deutoronomy 28:1-2
+#+end_quote
